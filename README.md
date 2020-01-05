@@ -1,2 +1,2 @@
 # javaSSM
-Kong Liang's daily project
+SSM项目源码
